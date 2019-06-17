@@ -9,22 +9,29 @@ CVPR2019论文直播分享计划：<br>
 [CMU诸宸辰:基于Anchor-free特征选择模块的单阶目标检测(CVPR2019，列表id 88)](https://mp.weixin.qq.com/s/CvzFG63c1bTuWFSIzNSxBA) 
 
 * 5月9日晚单目标跟踪分享回放<br>[张志鹏:基于siamese网络的单目标跟踪(CVPR2019 Oral，列表id 65)](https://mp.weixin.qq.com/s/3vlVXQDh6ou8Gdhg4xY2Tg)<br>
-* [5月30日本周四晚八点人脸识别分享帝国理工邓健康：ArcFace 构建高效的人脸识别系统(已开源)](https://mp.weixin.qq.com/s/5Wzq_MtNXLtF_41DVwDmgg)<br>
-* 6月13日多人姿态估计分享
-cvpr2019 accepted papers list:<br>
-http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
+* [5月30日晚人脸识别分享回放<br>[邓健康-CVPR2019:ArcFace 构建高效的人脸识别系统(CVPR2019，列表id 243)](https://mp.weixin.qq.com/s/SIHFTbDc_XjbfYfpgwNYeQ)：<br>
+* 6月13日晚分享<br>
+[董峻廷：多视角下多人三维姿态估计](https://mp.weixin.qq.com/s/6aDSJ6EzAvj71D4qHqQoPw)<br>
+
+
+CVPR2019全部论文PDF下载（已经下载完，全部1294篇）<br>
+* 全部链接：http://openaccess.thecvf.com/CVPR2019.py <br>
+* 下载链接:https://pan.baidu.com/s/1J6qRJgVXWIg4hsLpGRfAiw  
+密码:bei7 
 <br>
-
-所有接收论文title：https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/edit#gid=2010472999<br>提供文件下载，文件来源：<https://github.com/hoya012/CVPR-2019-Paper-Statistics><br>
-
-论文PDF下载（更新中）<br>
-链接：https://pan.baidu.com/s/1s4FuLscWcslN5rQQvP92JA 
-提取码：osvy 
+*  [CVPR 2019全部论文开源源码汇总Excel点这里](https://github.com/extreme-assistant/cvpr2019/blob/master/cvpr_2019_githublinks.csv)
 <br><br>
+参考链接<br>
+* https://github.com/hoya012/CVPR-2019-Paper-Statistics <br>
+* https://github.com/jonahthelion/cvpr_with_code <br>
+* https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/edit#gid=2010472999 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
-
+681.Shifting More Attention to Video Salient Object Detection<br>
+作者：Deng-Ping Fan, Wenguan Wang, Ming-Ming Cheng, Jianbing Shen<br>
+论文链接：http://dpfan.net/wp-content/uploads/2019CVPROralSSAVNetDAVSOD-datasetShifting-More-Attention-to-Video-Salient-Object-Detection.pdf<br>
+源码链接：https://github.com/DengPingFan/DAVSOD<br><br>
 680.Pedestrian Detection with Autoregressive Network Phases<br>
 作者：Garrick Brazil, Xiaoming Liu<br>
 论文链接：https://arxiv.org/abs/1812.00440<br>
@@ -2528,6 +2535,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 <br>
 作者：Jiankang Deng, Jia Guo, Niannan Xue, Stefanos Zafeiriou<br>
 论文链接：https://arxiv.org/abs/1801.07698
+<br>源码链接：https://github.com/deepinsight/insightface
 <br>
 <br>
 Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
@@ -4365,4 +4373,5 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 作者：Yawei Luo, Liang Zheng, Tao Guan, Junqing Yu, Yi Yang<br>
 论文链接：https://arxiv.org/abs/1809.09478<br>
 源码链接：https://github.com/RoyalVane/CLAN
-<br><br>
+
+
